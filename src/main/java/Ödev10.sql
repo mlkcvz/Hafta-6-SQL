@@ -22,3 +22,4 @@ SELECT c.first_name,c.last_name
 FROM customer c
 FULL JOIN rental r
 ON c.customer_id = r.customer_id
+--finish--
